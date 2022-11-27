@@ -1,6 +1,6 @@
 ## config.js explanation
 - password: The obs-websocket password you set/that was generated
-- token: See [token tutorial](https://github.com/Pentalex/ChannelPointMute/edit/main/README.md#token-tutorial)
+- token: See [token tutorial](https://github.com/Pentalex/ChannelPointMute#token-tutorial)
 - rewardName: The exact name of the channel point reward (case sensitive)
 - time: Time per redemption that gets added to the timer
 - source: The exact name of your microphone source in OBS (case sensitive)
